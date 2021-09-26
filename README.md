@@ -2,7 +2,7 @@
 Calculadora / Calculator
 
 <p align="center"
-   <img width="500" src=/blob/main/calculator.gif">
+   <img width="500" src="https://github.com/Rafaeli9/Calculadora-Calculator/blob/main/calculator.gif">
  </p>
 
 
