@@ -2,7 +2,8 @@
 Calculadora / Calculator
 
 <p align="500"
-   <img src="
+   <img src="https://github.com/Rafaeli9/Calculadora-Calculator/blob/main/calculator.gif">
+ </p>
 
 
 Projeto de uma calculadora com as funcionalidades:
