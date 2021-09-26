@@ -1,8 +1,8 @@
 # Calculadora-Calculator
 Calculadora / Calculator
 
-<p align="500"
-   <img src="https://github.com/Rafaeli9/Calculadora-Calculator/blob/main/calculator.gif">
+<p align="center"
+   <img width="500" src="https://github.com/Rafaeli9/Calculadora-Calculator/blob/main/calculator.gif">
  </p>
 
 
