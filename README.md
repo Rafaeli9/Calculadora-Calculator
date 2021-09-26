@@ -7,23 +7,23 @@ Calculadora / Calculator
 
 
 Projeto de uma calculadora com as funcionalidades:
-"+" = soma
-"-" = subtrair
-"*" = multiplicar
-"/" = dividir
-"," = vírgula
-"<<" = apagar
-"±" = inveter
-"CE" = limpar display
+"+" = soma,
+"-" = subtrair,
+"*" = multiplicar,
+"/" = dividir,
+"," = vírgula,
+"<<" = apagar,
+"±" = inveter,
+"CE" = limpar display,
 "C" = limpar cálculo
 
 Project of a calculator with the features:
-+ = sum
-- = subtract
-* = multiply
-/ = divide
-, = dot(comma in BR)
-<< = delete
-± = inveter
-CE = clear display
-C = clear calculation
+"+" = sum,
+"-" = subtract,
+"*" = multiply,
+"/" = divide,
+"," = dot(comma in BR),
+"<<" = delete,
+"±' = inveter,
+"CE" = clear display,
+"C' = clear calculation
