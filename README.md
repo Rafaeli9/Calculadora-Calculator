@@ -7,15 +7,15 @@ Calculadora / Calculator
 
 
 Projeto de uma calculadora com as funcionalidades:
-+ = soma
-- = subtrair
-* = multiplicar
-/ = dividir
-, = vírgula
-<< = apagar
-± = inveter
-CE = limpar display
-C = limpar cálculo
+"+" = soma
+"-" = subtrair
+"*" = multiplicar
+"/" = dividir
+"," = vírgula
+"<<" = apagar
+"±" = inveter
+"CE" = limpar display
+"C" = limpar cálculo
 
 Project of a calculator with the features:
 + = sum
